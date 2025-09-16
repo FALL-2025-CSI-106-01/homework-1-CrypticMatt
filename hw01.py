@@ -1,5 +1,5 @@
 # ------------------------------------------------------
-#        Name: (put your name here)
+#        Name: Matthew Monty
 #       Peers: (add any collaborators)
 #  References: (anything you checked to solve this)
 # ------------------------------------------------------
@@ -23,7 +23,7 @@ result5 = 0
 # =============================================
 # Your code for part 1 under this line and before the print statements
 x = 27
-y=1
+y= 1
 a = 1.5
 b = 7
 c = -1
@@ -54,15 +54,21 @@ print("Part 2: result =", result2)
 # =============================================
 # Your code for part 3 under this line and before the print statements
 
+a = 100
+b = 13
+result3 = a//b
+
+
 print("Part 3: a =",a)
 print("Part 3: b =",b)
 print("Part 3: result =", result3)
-# End of Part 3 ----------------------
 
+# End of Part 3 ----------------------
 
 # Part 4: Modulo
 # =============================================
 # Your code for part 4 under this line and before the print statements
 
+result4 = a - (b*result3)
 print("Part 4: result =", result4)
 # End of Part 4 ----------------------
